@@ -1,0 +1,12 @@
+{
+  "name": "assignment5",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": { "start": "node index.js", "dev": "node --watch index.js" },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0",
+    "sequelize": "^6.37.3"
+  }
+}
